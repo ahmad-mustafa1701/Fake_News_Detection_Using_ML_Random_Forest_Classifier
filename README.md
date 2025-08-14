@@ -1,4 +1,5 @@
 Fake News Detection Using Machine Learning (Random Forest Classifier)
+
 📌 Overview
 
 This project is aimed at detecting fake news articles using Machine Learning with a Random Forest Classifier. It uses spaCy for text preprocessing, TF-IDF Vectorization for feature extraction, and 5-fold cross-validation for robust model evaluation. The goal is to create a reliable tool for identifying misinformation in news content.
